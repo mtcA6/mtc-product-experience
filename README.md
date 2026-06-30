@@ -1,5 +1,5 @@
 # Overview 
-This is a place for documenting and showcasing my product knowledge and experience. I've bounced between two main domains FinTech and CivicTech. 
+I've bounced between two main domains FinTech and CivicTech. I've had dramatically different experiences in both domains. 
 
 ## FinTech
 In financial services, I've supported large and small banks focused mostly on Lending products. However, that time has also overlapped with interesting technology trends (think Machine Learning, Blockchain, and now Generative AI and LLM's). 
