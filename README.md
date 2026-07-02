@@ -15,9 +15,7 @@ I've bounced between two main domains FinTech and CivicTech. I've had dramatical
 ## FinTech
 In financial services, I've supported large and small banks focused mostly on Lending products. However, that time has also overlapped with interesting technology trends (think Machine Learning, Blockchain, and now Generative AI and LLM's). 
 
-Since this work has been for the private sector I am limited in what I can show and discuss. I can, however, build a mini-app showcasing what I've been learning over the past 6-8 months using AI and I hope that will demonstrate the product thinking I bring to every application. 
-
-For a deeper dive of [my experience at Morgan Stanley see this page](https://github.com/mtcA6/mtc-product-experience/blob/main/fintech-morgan-stanley.md).
+Since this work has been for the private sector I am more limited in what I can show and discuss. For a deeper dive into [my experience at Morgan Stanley see this page](https://github.com/mtcA6/mtc-product-experience/blob/main/fintech-morgan-stanley.md).
 
 ## CivicTech
 
