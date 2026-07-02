@@ -17,3 +17,5 @@ My time with VA.gov was career changing. The sheer volume of weekly and monthly 
 Building a user facing application where your application is a key part of their experience after separating from the Military was an honor and required a reverance not often seen in technology. Working on VA.gov is one of the first places where I felt we used our OKR and KPI conversations to ensure our impact on the Veteran Experience was hitting the mark.  Knowing that the user population was in the millions every single month I moved carefully yet with intention.  
 
 
+
+
