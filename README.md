@@ -1,6 +1,12 @@
-# Overview 
-I've bounced between two main domains FinTech and CivicTech. I've had dramatically different experiences in both domains. 
+Last updated 7/2/2026 - re-organizing and reducing the number of directories
+# Table of Contents 
 
+
+
+# Overview 
+I've bounced between two main domains FinTech and CivicTech. I've had dramatically different experiences in both domains and I'm going to document as much as I can in longer form narrative/blog post style pages. 
+
+# Domains
 ## FinTech
 In financial services, I've supported large and small banks focused mostly on Lending products. However, that time has also overlapped with interesting technology trends (think Machine Learning, Blockchain, and now Generative AI and LLM's). 
 
@@ -16,6 +22,10 @@ My time with VA.gov was career changing. The sheer volume of weekly and monthly 
 
 Building a user facing application where your application is a key part of their experience after separating from the Military was an honor and required a reverance not often seen in technology. Working on VA.gov is one of the first places where I felt we used our OKR and KPI conversations to ensure our impact on the Veteran Experience was hitting the mark.  Knowing that the user population was in the millions every single month I moved carefully yet with intention.  
 
+# Capabilities 
+Throughout my career I've gradually become more technical taking classes to expand my knowledge and understanding. 
 
-
-
+## Product 
+tk tk
+## Software Development 
+tk tk
