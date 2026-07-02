@@ -1,6 +1,6 @@
 Last updated 7/2/2026 - re-organizing and reducing the number of directories
 # Table of Contents 
-# [overview]
+- # [overview]
 
 # Overview 
 I've bounced between two main domains FinTech and CivicTech. I've had dramatically different experiences in both domains and I'm going to document as much as I can in longer form narrative/blog post style pages. 
