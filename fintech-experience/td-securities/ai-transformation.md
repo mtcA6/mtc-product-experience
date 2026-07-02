@@ -3,7 +3,11 @@ draft 7/1/26
 
 ## Transformation: 
 
-Every banking experience I've had has been about some sort of transformation. Sometimes it's a technical transformation where I've supported teams shifting from a waterfall (Morgan Stanley) or a project based approach (Sandy Spring) to use Agile values and methodologies. Every banking role I've had we've had some sort of Lending Transformation where we've done things like changed the application experience to build a digital first application for small businesses or an internal digital transformation to make use of custom built applications to buy, sell, and securitize loans. Those transformations had a lot of buzz. Now, of course, everyone is talking about AI transformations and the buzz is a deafening roar. This mini analysis explores my experience supporting an AI transformation. 
+Every banking experience I've had has been about some sort of transformation. Sometimes it's a technical transformation where I've supported teams shifting from a waterfall (Morgan Stanley) or a project based approach (Sandy Spring) to use Agile values and methodologies. 
+
+Every banking role I've had we've had some sort of Lending Transformation where we've done things like changed the application experience to build a digital first application for small businesses or an internal digital transformation to make use of custom built applications to buy, sell, and securitize loans. Those transformations had a lot of buzz. Now, of course, everyone is talking about AI transformations and the buzz is a deafening roar. 
+
+Now that we're multiple years into this AI adventure I'm taking a few moments to look back and consider my experience of AI adoption in government contracting and banking. This mini analysis explores my experience supporting an AI transformation. 
 
 ## Need for speed... or training?
 
@@ -13,12 +17,14 @@ There's absolutely a need for, what I'm being drawn to call, an AI Literacy. Lea
 
 ## Starting up windows, or in this case AI
 
-We've had a few main gaps to navigate, access and training. 
+We've had a few main gaps to navigate, access and training. Within the access bucket there is often a conversation of best use / safe use of AI. In the contracting sector this was more focused on the ethics and permissibility followed by security. In the private sector its more focused on security and protecting the bank and the best use cases for AI. 
 
 ### Access
 > "You can lead a horse to water but you cannot make it drink."
 
-At the outset, we had to request specialized access to Copilot. Once we had access, leadership was constantly hounding us to make use of the AI tools we had to experiement and to amend our working strategies to leverage AI whenever and wherever possible. 
+In government contracting, we spent a lot of time discussing if we were allowed to use AI to support building things for the government. It wasn't clear if we were using unpaid and unmanaged accounts if we were allowed to use the tools. We started using it for internal items but not client facing work. Then the government started to provide its own positioning on AI and access began rolling in gradually. 
+
+At the outset, in government contracting and at TD we had to request specialized access to Copilot. Once we had access, leadership was constantly hounding us to make use of the AI tools we had to experiement and to amend our working strategies to leverage AI whenever and wherever possible. 
 
 With the initial access gap resolved, the dabbling began. I started watching youtube videos about prompting and strategies for implementing AI. The results were honestly lackluster. I felt like some of the formatting issues and the content weren't hitting the mark so my adoption was shoddy at first. 
 
